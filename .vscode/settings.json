@@ -1,0 +1,11 @@
+{
+    "files.associations": {
+        "string_view": "cpp",
+        "array": "cpp",
+        "string": "cpp",
+        "ranges": "cpp",
+        "*.ipp": "cpp",
+        "ratio": "cpp"
+    },
+    "C_Cpp.default.defines":["NETWORK=1", "CHANGED=1"],
+}

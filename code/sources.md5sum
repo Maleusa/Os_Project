@@ -1,0 +1,14 @@
+16bbaa6527d637054a3d6fb86565934a  -
+97151b882cc1f56768e93e3ee333463a  ../Makefile
+c91c62796d511930602b794c3c64a191  ../Makefile.define-origin
+3eeadebdd7bcf187d635084029906fc3  ../Makefile.rules-nachos
+a741e349c42733b65b549c359a35ee14  ../Makefile.sysdep
+8d8ada8aa951d5b8233a932f404420fd  ../machine/console.h
+63f12bcd2b4e139f8287eabbb223d068  ../machine/disk.h
+a63d043c9f487015a0af56e8428e98b3  ../machine/interrupt.h
+24beb7a3a25a9788af14a18fe9c40732  ../machine/mipssim.h
+48f5cbcf44528cfc1175e2d0b8de5f62  ../machine/network.h
+6e65156975fae1e4b303eabca80b05a0  ../machine/stats.h
+5a420cd089a5a26a77954602f030b6ba  ../machine/sysdep.h
+fba063d47f92e0c831d18e7e929381b9  ../machine/timer.h
+3b885efff73d13552ccc7a3240f6677d  ../machine/translate.h
